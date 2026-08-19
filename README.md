@@ -1,4 +1,4 @@
-# Espresso Machine
+# ☕ Espresso Machine
 
 A small Java project built for fun, experimentation, and learning.
 
@@ -339,7 +339,7 @@ Machine returns to ON
 
 ---
 
-## 📌 Disclaimer
+##  Disclaimer
 
 So... this project is made **for fun, experimentation, and learning Java**.
 
