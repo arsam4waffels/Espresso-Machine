@@ -1,4 +1,3 @@
-````markdown
 # Espresso Machine
 
 A small Java project built for fun, experimentation, and learning.
@@ -17,8 +16,6 @@ It is mainly a playground for practicing Java concepts such as:
 - Validation
 - Method Chaining
 
----
-
 ## ☕ About the Project
 
 The idea is to simulate a simple espresso machine.
@@ -35,7 +32,6 @@ The machine can:
 - Consume water during brewing
 - Throw exceptions when an invalid operation is attempted
 
----
 
 ## ☕ How Is a Coffee Brewed?
 
@@ -48,7 +44,7 @@ The basic formula is:
 
 ```text
 Beverage Output = Coffee Weight × Brew Ratio
-````
+```
 
 For example:
 
@@ -98,7 +94,7 @@ This is a simplified model for the purpose of the project.
 
 ---
 
-## 🧱 Object Creation
+## Object Creation
 
 The Espresso Machine is created using the **Builder Pattern**.
 
@@ -124,7 +120,7 @@ This makes the object creation process more readable and easier to extend.
 
 ---
 
-## 🧩 What Should Each Object Be Responsible For?
+##  What Should Each Object Be Responsible For?
 
 The project tries to keep each object responsible for its own domain.
 
@@ -261,7 +257,7 @@ The machine should not be turned off while it is brewing.
 
 ---
 
-## ⚠️ Exceptions
+## Exceptions
 
 The project uses custom exceptions to represent invalid machine operations.
 
@@ -296,7 +292,7 @@ NotEnoughWaterException
 
 ---
 
-## 🔄 Brewing Flow
+## Brewing Flow
 
 A simplified brewing flow looks like this:
 
@@ -330,7 +326,7 @@ Machine returns to ON
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * Java
 * Object-Oriented Programming
@@ -343,38 +339,13 @@ Machine returns to ON
 
 ---
 
-## 🚧 Project Status
-
-This is an experimental and continuously evolving project.
-
-New features may be added as I learn more about Java and software design.
-
-Possible future features include:
-
-* More coffee types
-* Real water tank management
-* Coffee temperature
-* Brewing pressure
-* Heating system
-* Grinder simulation
-* Steam wand
-* Milk-based drinks
-* Multiple portafilters
-* More detailed machine states
-* Better domain modeling
-* Unit tests
-
----
-
 ## 📌 Disclaimer
 
-This project is made **for fun, experimentation, and learning Java**.
+So... this project is made **for fun, experimentation, and learning Java**.
 
-It is not a professional coffee machine simulation and its calculations are intentionally simplified.
+It is not a professional coffee machine simulation (i mean... duh?) and its calculations are intentionally simplified.
 
-The goal is to experiment with software design while building something that is actually fun to work on.
+All that means don't randomly go and start a Espresso Machine Construction factory  base on this code lol.
 
+Also, I would like to thank the café where I worked for a time; they taught me the principles and rules of coffee extraction. I am truly grateful.
 ````
-
-
-این دقیقاً همان جهتی است که پروژه‌ات الان دارد می‌رود: از یک تمرین ساده Java به یک mini domain model واقعی.
