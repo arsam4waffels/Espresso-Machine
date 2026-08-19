@@ -16,7 +16,7 @@ It is mainly a playground for practicing Java concepts such as:
 - Validation
 - Method Chaining
 
-## ☕ About the Project
+##  About the Project
 
 The idea is to simulate a simple espresso machine.
 
@@ -33,7 +33,7 @@ The machine can:
 - Throw exceptions when an invalid operation is attempted
 
 
-## ☕ How Is a Coffee Brewed?
+##  How Is a Coffee Brewed?
 
 The brewing process is based on two main values:
 
@@ -348,4 +348,3 @@ It is not a professional coffee machine simulation (i mean... duh?) and its calc
 All that means don't randomly go and start a Espresso Machine Construction factory  base on this code lol.
 
 Also, I would like to thank the café where I worked for a time; they taught me the principles and rules of coffee extraction. I am truly grateful.
-````
